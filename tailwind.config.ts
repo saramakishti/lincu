@@ -8,13 +8,19 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      fontFamily: {
+        sans: ['Roboto', 'sans-serif'],
+      },
+      colors: {
+        primary: '#FF914D',
+        secondary: '#352CAB',
+        tertiary: '#968CE4',
+        fourth: '#FFBD59',
+        fifth: '#3D0066',
       },
     },
   },
   plugins: [],
 };
+
 export default config;
