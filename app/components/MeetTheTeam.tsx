@@ -6,37 +6,43 @@ function MeetTheTeam() {
       name: 'Mari Robles',
       title: 'CEO',
       imageUrl: '/assets/female_placeholder.png',
-      description: 'Lorem ipsum dolor!',
+      description:
+        "Mari is currently pursuing her Master's in Bildungswissenschaft - Organisation und Beratung at TU Berlin.",
     },
     {
       name: 'Aleksandra Frydrychowska',
       title: 'COO',
       imageUrl: '/assets/female_placeholder.png',
-      description: 'Lorem ipsum dolor!',
+      description:
+        "Aleksandra holds a Bachelor's degree in Production Engineering and Management and is currently pursuing her Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
     },
     {
       name: 'Tim Thomas',
       title: 'CFO',
       imageUrl: '/assets/male_placeholder.png',
-      description: 'Lorem ipsum dolor!',
+      description:
+        "Tim is currently pursuing his Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
     },
     {
       name: 'Fabian Hespeler',
       title: 'CSO',
       imageUrl: '/assets/male_placeholder.png',
-      description: 'Lorem ipsum dolor!',
+      description:
+        "Fabian is currently pursuing his Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
     },
     {
       name: 'Robin Scholtz',
       title: 'CTO',
       imageUrl: '/assets/male_placeholder.png',
-      description: 'Lorem ipsum dolor!',
+      description:
+        "Robin is currently pursuing his Master's in Computer Engineering at TU Berlin.",
     },
     {
       name: 'Sara Pervana',
       title: 'CPO',
       imageUrl: '/assets/female_placeholder.png',
-      description: 'MSc. Information Systems Managment',
+      description:
+        "Sara holds a Bachelor's degree in Business Informatics and is currently pursuing her Master's in Information Systems Managment at TU Berlin.",
     },
   ];
 

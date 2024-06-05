@@ -57,7 +57,7 @@ function PricingPlans() {
               href='/signin'
               className='bg-fourth text-black py-2 px-4 rounded-full font-bold hover:bg-tertiary transition duration-300'
             >
-              €150/year per licensed user
+              €150/year per user
             </Link>
           </div>
         </div>

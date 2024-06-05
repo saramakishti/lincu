@@ -3,7 +3,7 @@ function HowItWorks() {
   return (
     <section id='how-it-works' className='py-16 px-16 bg-gray-100'>
       <div className='container mx-auto flex flex-col lg:flex-row items-center'>
-        <div className='lg:w-1/2 flex justify-center'>
+        <div className='lg:w-1/2 flex justify-center mb-8'>
           <Image
             src='/assets/sample.png'
             width={300}

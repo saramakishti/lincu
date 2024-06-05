@@ -3,8 +3,8 @@ import Link from 'next/link';
 function Newsletter() {
   return (
     <section id='newsletter' className='py-16 bg-tertiary'>
-      <div className='container mx-auto text-center'>
-        <h2 className='text-4xl font-bold mb-8'>
+      <div className='container mx-auto text-center px-4'>
+        <h2 className='text-3xl md:text-4xl font-bold mb-8'>
           <span className='bg-primary text-black p-2 rounded-lg'>
             Subscribe
           </span>{' '}
