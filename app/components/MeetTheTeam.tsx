@@ -14,7 +14,7 @@ function MeetTheTeam() {
       title: 'COO',
       imageUrl: '/assets/female_placeholder.png',
       description:
-        "Aleksandra holds a Bachelor's degree in Production Engineering and Management and is currently pursuing her Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
+        "Aleksandra holds a Bachelor's degree in Production Engineering and Management and he is currently pursuing her Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
     },
     {
       name: 'Tim Thomas',
@@ -28,14 +28,14 @@ function MeetTheTeam() {
       title: 'CSO',
       imageUrl: '/assets/male_placeholder.png',
       description:
-        "Fabian holds a Bachelor's degree in Sustainable Management and is currently pursuing his Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
+        "Fabian holds a Bachelor's degree in Sustainable Management and he is currently pursuing his Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
     },
     {
       name: 'Robin Scholtz',
       title: 'CTO',
       imageUrl: '/assets/male_placeholder.png',
       description:
-        "Robin is currently pursuing his Master's in Computer Engineering at TU Berlin.",
+        "Robin holds a Bachelor's degree in Computer Engineering and he is currently pursuing his Master's in Computer Engineering at TU Berlin.",
     },
     {
       name: 'Sara Pervana',
