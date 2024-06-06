@@ -7,7 +7,7 @@ function MeetTheTeam() {
       title: 'CEO',
       imageUrl: '/assets/female_placeholder.png',
       description:
-        "Mari is currently pursuing her Master's in Bildungswissenschaft - Organisation und Beratung at TU Berlin.",
+        "Mari holds a Bachelor's degree in  International Studies and German Studies and she is currently pursuing her Master's in Bildungswissenschaft - Organisation und Beratung at TU Berlin.",
     },
     {
       name: 'Aleksandra Frydrychowska',
@@ -21,14 +21,14 @@ function MeetTheTeam() {
       title: 'CFO',
       imageUrl: '/assets/male_placeholder.png',
       description:
-        "Tim is currently pursuing his Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
+        "Tim holds a Bachelor's degree in International Business, Major Finance and he is currently pursuing his Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
     },
     {
       name: 'Fabian Hespeler',
       title: 'CSO',
       imageUrl: '/assets/male_placeholder.png',
       description:
-        "Fabian is currently pursuing his Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
+        "Fabian holds a Bachelor's degree in Sustainable Management and is currently pursuing his Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
     },
     {
       name: 'Robin Scholtz',
