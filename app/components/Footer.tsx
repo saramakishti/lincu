@@ -21,8 +21,8 @@ function Footer() {
             </div>
           </div>
           <p>
-            Empowering working professionals to master German effortlessly for
-            career growth and personal enrichment.
+            Empowering people to master German effortlessly for career growth
+            and personal enrichment.
           </p>
           <p>Copyright &copy;2024</p>
         </div>
@@ -55,11 +55,11 @@ function Footer() {
                   LinCu Premium
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href='/#pricing-plans' className='hover:underline'>
                   LinCu Enterprise
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
           <div>

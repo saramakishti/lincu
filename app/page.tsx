@@ -26,6 +26,17 @@ function HeroSection() {
   return (
     <section className='bg-tertiary flex items-center h-screen'>
       <div className='container mx-auto flex flex-col-reverse md:flex-row items-center justify-between px-4 md:px-16'>
+        <div className='w-full md:w-1/2 flex items-center justify-center'>
+          <div className='w-full h-3/4 flex items-center justify-center mb-8 md:mb-0'>
+            <Image
+              width={500}
+              height={500}
+              src='/assets/karl-nobg.png'
+              alt='Mascot'
+              className='object-contain'
+            />
+          </div>
+        </div>
         <div className='w-full md:w-1/2 flex flex-col items-start justify-center space-y-8 text-left px-4 md:px-8 mt-8 md:mt-0'>
           <div className='space-y-4'>
             <div className='flex flex-wrap gap-2'>
@@ -61,17 +72,6 @@ function HeroSection() {
           >
             Start Learning
           </Link>
-        </div>
-        <div className='w-full md:w-1/2 flex items-center justify-center'>
-          <div className='w-full h-3/4 flex items-center justify-center mb-8 md:mb-0'>
-            <Image
-              width={500}
-              height={500}
-              src='/assets/banner.svg'
-              alt='Mascot'
-              className='object-contain'
-            />
-          </div>
         </div>
       </div>
     </section>

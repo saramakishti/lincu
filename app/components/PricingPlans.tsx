@@ -36,10 +36,10 @@ function PricingPlans() {
               href='/signin'
               className='bg-fourth text-black py-2 px-4 rounded-full font-bold hover:bg-tertiary transition duration-300'
             >
-              €9.99/month
+              €9.99/month OR €99/year
             </Link>
           </div>
-          <div className='bg-fifth text-white p-8 rounded-lg shadow-lg w-full md:w-1/3'>
+          {/* <div className='bg-fifth text-white p-8 rounded-lg shadow-lg w-full md:w-1/3'>
             <h3 className='text-2xl font-bold mb-4'>C1</h3>
             <h4 className='text-xl font-semibold mb-4'>Enterprise</h4>
             <ul className='list-disc list-inside mb-8 space-y-2 text-left'>
@@ -59,7 +59,7 @@ function PricingPlans() {
             >
               €150/year per user
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

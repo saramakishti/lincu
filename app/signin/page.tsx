@@ -1,3 +1,4 @@
+import Image from 'next/image';
 export default function SignIn() {
   return (
     <div className='min-h-screen flex flex-col items-center justify-center bg-gray-100 px-4'>
@@ -6,13 +7,18 @@ export default function SignIn() {
         Excited about what we are working on? Check our{' '}
         <a
           className='text-primary cursor-pointer'
-          href='https://www.figma.com/design/4hLYGvyU7kvDWT4nL9rOJD/LinCu?node-id=0-1&t=t3I8B9tt7N0oEFqT-1'
+          href='https://www.figma.com/proto/4hLYGvyU7kvDWT4nL9rOJD/LinCu?t=bV2hqFvehTKeQpQ0-1'
           target='_blank'
           rel='noopener noreferrer'
         >
           initial prototype here!
         </a>
       </h4>
+      <h4>or scan this QR code:</h4>
+      <br />
+      <Image src='/assets/figma.png' width={300} height={300} alt='figma' />
+      <br />
+      <a href='/'>Go back</a>
     </div>
   );
 }

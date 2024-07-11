@@ -14,7 +14,7 @@ function MeetTheTeam() {
       title: 'COO',
       imageUrl: '/assets/female_placeholder.png',
       description:
-        "Aleksandra holds a Bachelor's degree in Production Engineering and Management and he is currently pursuing her Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
+        "Aleksandra holds a Bachelor's degree in Production Engineering and Management and she is currently pursuing her Master's in Innovation Management, Entrepreneurship and Sustainability at TU Berlin.",
     },
     {
       name: 'Tim Thomas',
